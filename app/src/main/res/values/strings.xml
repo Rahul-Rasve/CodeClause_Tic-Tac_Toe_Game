@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">tic_tac_toe</string>
+    <string name="headerText">Tic-Tac-Toe</string>
+    <string name="grid">mainGrid</string>
+    <string name="cell0">0</string>
+    <string name="cell7">7</string>
+    <string name="cell1">1</string>
+    <string name="cell2">2</string>
+    <string name="cell3">3</string>
+    <string name="cell4">4</string>
+    <string name="cell5">5</string>
+    <string name="cell6">6</string>
+    <string name="cell8">8</string>
+</resources>
